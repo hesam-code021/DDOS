@@ -1,0 +1,30 @@
+  *
+  *
+  *
+  * enter codes in your termux:
+  *
+  * apt update
+  *
+  * apt upgrade
+  *
+  * pkg update
+  *
+  * pkg upgrade
+  *
+  * pkp i git python nano
+  *
+  * git clone https://github.com/Mehdi4Lion/D-E>
+  *
+  * cd D--Elite
+  *
+  * ls
+  *
+  * chmod 777 *
+  *
+  * python D-Elite.py
+  *
+  * Hfysjdv<<<T.me/Persian_Elite>>>sjvfwunhsgevwbgzndtBdg
+  *
+  * site addres
+  *
+  * 999999999
