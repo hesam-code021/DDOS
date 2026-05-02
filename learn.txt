@@ -13,8 +13,6 @@
   *
   * pkp i git python nano
   *
-  * git clone https://github.com/Mehdi4Lion/D-E>
-  *
   * cd D--Elite
   *
   * ls
